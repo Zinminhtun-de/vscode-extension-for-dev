@@ -4,18 +4,28 @@
 
 
 - advanced-new-file
+- Auto Close Tag
 - Auto Rename Tag
 - Better Align
+- Better Comments
 - Color Highlight
 - DotENV
 - ES7+ React/Redux/React-Native snippets
 - ESLint
 - GitHub Markdown Preview
 - GitLens — Git supercharged
+- Git Extension Pack
 - GSAP Snippets
 - indent-rainbow
 - Indenticator
-- avaScript (ES6) code snippets
+- JavaScript (ES6) code snippets
+- Mern Snippets
+- Mongo Snippets for Node.js
+- ExpressJS 4 Snippets 
+- Express-faster
+- Fullstack React/React Native snippets
+- node-snippets
+- npm-intellisense
 - Laravel Artisan
 - Laravel Assist
 - Laravel Blade Snippets
@@ -56,5 +66,11 @@
 - TypeScript Toolbox
 - vscode-icons
 - vscode-styled-components-snippets
+- CodeSnap
+- Path Intellisense
+- Code Spell Checker
+- Material Icon Theme
+- Pomodoro Timer for VSCode
+- Bracket Pair Colorizer 2
 
 
