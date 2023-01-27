@@ -74,5 +74,6 @@
 - Bracket Pair Colorizer 2
 - Import Cost
 - Image Preview
+- SVG Preview
 
 
