@@ -72,5 +72,7 @@
 - Material Icon Theme
 - Pomodoro Timer for VSCode
 - Bracket Pair Colorizer 2
+- Import Cost
+- Image Preview
 
 
