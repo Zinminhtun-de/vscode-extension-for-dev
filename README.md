@@ -1,6 +1,4 @@
-# Vscode Extension For Developer
-
-
+# Vscode Extension For Development
 
 
 - advanced-new-file
@@ -77,5 +75,9 @@
 - SVG Preview
 - React Tree
 - Regex Previewer
+- Console Ninja
+- Blackbox
+- Multiple cursor case
+- Code GPT
 
 
