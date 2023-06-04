@@ -75,5 +75,7 @@
 - Import Cost
 - Image Preview
 - SVG Preview
+- React Tree
+- Regex Previewer
 
 
