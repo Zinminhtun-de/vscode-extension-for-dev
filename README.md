@@ -79,5 +79,10 @@
 - Blackbox
 - Multiple cursor case
 - Code GPT
+- Sapling
+- Draw.io Integration
+- Peacock
+- Sort lines
+- Power Mode
 
 
